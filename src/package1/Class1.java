@@ -13,7 +13,10 @@ public class Class1 {
 		System.out.println("Here is a fourth commit");
 		
 		System.out.println("Here is sueda branch");
-		
+
 		System.out.println("Conflicting line");
+
+		System.out.println("Here we have a different line");
+
 	}
 }
