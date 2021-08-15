@@ -18,6 +18,7 @@ public class Class1 {
 
 		System.out.println("Here we have a different line");
 
+		
 		System.out.println("Here is feature conflicting line");
 	}
 }
